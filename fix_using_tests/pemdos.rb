@@ -6,6 +6,5 @@ def snake_it_up(string = "surprise")
     string
   end
 end
-binding.pry
 
 snake_it_up
