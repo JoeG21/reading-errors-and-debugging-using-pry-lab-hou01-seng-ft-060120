@@ -5,7 +5,7 @@ def snake_it_up(string)
   else
     string
   end
-  binding.pry
 end
+binding.pry
 
 snake_it_up("surprise!")
